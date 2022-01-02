@@ -1,0 +1,23 @@
+introduction :
+	- shared Preferences (luu thong tin nhanh)
+	+ access token (Login)
+
+	- Internal Storage (Luu trong bo nho cua may / camera)
+	- External Sroage (Luu trong the nho)
+	- SQLite database : 
+	SQLite DB - room - realm(ORM)
+
+--content providers : 
+
+Essets
+--cach su dung essets  : 
+Essets:
+mipmap :
+hdpi
+xh
+xxh
+xxxh -> chua nhieu file trong cac forder. 
+
+
+bai 1 : Lam cai manager ve chi tieu hang ngay 
+bai 2 : Lam asset lay file mp3 ra  

@@ -1,0 +1,34 @@
+I. Linner Layout
+orientation "vertical"(ngang) / "horizontal" (doc)
+
+wrap_content
+fill_perants
+
+padding :  
+margins :
+
+
+II. Relative Layout
+layout alignParentLeft/Right ="true"
+
+gravity:
+layout_gravity
+labels
+
+cac thuoc tinh:
+textSize=" sp"
+textStyle="bold(in dam)" 
+
+
+inputType="text..."
+RadioGroup
+RadioButton
+checked
+
+
+intent:Intent = Intent (this,Main2Activity::class.java)
+startActivity(intent)
+
+tv1.text="Hello"
+
+
